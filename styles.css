@@ -22,7 +22,6 @@ nav {
   background: #fff;
   font-family: "Times New Roman", Times, serif;
   width: 100%;
-  height: 100vh;
 }
 
 .explore {
@@ -35,7 +34,18 @@ nav {
   top: 2px;
 }
 
+.products .product-img {
+  width: 100%;
+  height: 30vh;
+  background-image: url("./images/products-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
 .about {
   width: 100%;
   height: 100vh;
+  background-image: url("./images/aboutNcontact.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
