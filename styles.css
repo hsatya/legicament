@@ -42,7 +42,7 @@ nav {
 
 .about {
   background-image: url("./images/aboutus.jpg");
-  height: 100vh;
+  /* height: 100vh; */
   background-repeat: no-repeat;
 }
 
